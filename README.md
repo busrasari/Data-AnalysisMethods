@@ -1,4 +1,4 @@
-# DataAnalysisMethods -INF506 TTurkish German University
+# DataAnalysisMethods -INF506 Turkish German University
 
 ÜBUNG 1 invert normal_cdf by using binary search and plot data histogram (mu=0 and sigma=57)
 
